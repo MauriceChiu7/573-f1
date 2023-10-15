@@ -1,0 +1,31 @@
+﻿circuit_id,circuit_name,circuit_country,circuit_city,elevation_circuit
+albert_park,Albert Park Circuit,Australia,Melbourne,10
+bahrain,Bahrain International Circuit,Bahrain,Sakhir,1
+shanghai,Shanghai International Circuit,China,Shanghai,21
+baku,Baku City Circuit,Azerbaijan,Baku,2
+catalunya,Circuit de Barcelona-Catalunya,Spain,Montmelo,192
+monaco,Circuit de Monaco,Monaco,Monte Carlo,90
+villeneuve,Circuit Giles Villeneuve,Canada,Montreal,18
+ricard,Circuit Paul Ricard,France,Le Castellet,441
+red_bull_ring,Red Bull Ring,Austria,Spielberg,785
+silverstone,Silverstone Circuit,United Kingdom,Silverstone,208
+hockenheimring,Hockenheimring,Germany,Hockenheim,153
+hungaroring,Hungaroring,Hungary,Mogyorod,239
+spa,Circuit de Spa-Francorchamps,Belgium,Stavelot,468
+monza,Autodromo Nazionale di Monza,Italy,Monza,153
+marina_bay,Marina Bay Street Circuit,Singapore,Marina Bay,23
+sochi,Sochi Autodrom,Russia,Sochi,23
+suzuka,Suzuka International Racing Course,Japan,Suzuka,94
+rodriguez,Autodromo Hermanos Rodriguez,Mexico,Mexico City,2229
+americas,Circuit of the Americas,United States,Austin,157
+interlagos,Autodromo Jose Carlos Pace,Brazil,Sao Paulo,782
+yas_marina,Yas Marina Circuit,United Arab Emirates,Yas Island,20
+mugello,Autodromo Internazionale del Mugello,Italy,Scarperia,292
+nurburgring,Nurburgring,Germany,Nurburg,620
+portimao,Autodromo Internacional do Algarve,Portugal,Portimao,106
+imola,Autodromo Internazionale Enzo e Dino Ferrari,Italy,Imola,58
+istanbul,Istanbul Park,Turkey,Tuzla,136
+zandvoort,Circuit Zandvoort,Netherlands,Zandvoort,7
+losail,Losail International Circuit,Qatar,Losail,0
+jeddah,Jeddah Corniche Circuit,Saudi Arabia,Jeddah,0
+miami,Miami International Autodrome,United States,Miami,3
