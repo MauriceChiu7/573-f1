@@ -1,14 +1,14 @@
-﻿constructor;constructor_name;constructor_country
-mercedes;Mercedes-AMG;Germany
-red_bull;Red Bull Racing;Austria
-ferrari;Scuderia Ferrari;Italy
-haas;Haas;United States
-renault;Renault;France
-alfa;Alfa Romeo Racing;Switzerland
-racing_point;Racing Point;United Kingdom
-toro_rosso;Toro Rosso;Italy
-mclaren;McLaren;United Kingdom
-williams;Williams Racing;United Kingdom
-alphatauri;Scuderia AlphaTauri;Italy
-aston_martin;Aston Martin;United Kingdom
-alpine;Alpine;France
+﻿constructor,constructor_name,constructor_country
+mercedes,Mercedes-AMG,Germany
+red_bull,Red Bull Racing,Austria
+ferrari,Scuderia Ferrari,Italy
+haas,Haas,United States
+renault,Renault,France
+alfa,Alfa Romeo Racing,Switzerland
+racing_point,Racing Point,United Kingdom
+toro_rosso,Toro Rosso,Italy
+mclaren,McLaren,United Kingdom
+williams,Williams Racing,United Kingdom
+alphatauri,Scuderia AlphaTauri,Italy
+aston_martin,Aston Martin,United Kingdom
+alpine,Alpine,France
