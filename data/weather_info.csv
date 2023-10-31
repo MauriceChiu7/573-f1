@@ -722,8 +722,8 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2023,15,marina_bay,Clear,1,0,0,0,0
 2023,16,suzuka,Sunny,1,0,0,0,0
 2023,17,losail,Clear,1,0,0,0,0
-2023,18,americas,not found,0,0,0,0,0
-2023,19,rodriguez,not found,0,0,0,0,0
+2023,18,americas,Sunny,1,0,0,0,0
+2023,19,rodriguez,Sunny,1,0,0,0,0
 2023,20,interlagos,not found,0,0,0,0,0
 2023,21,vegas,not found,0,0,0,0,0
 2023,22,yas_marina,not found,0,0,0,0,0
