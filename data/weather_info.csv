@@ -1,729 +1,186 @@
 season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy
-1983,1,jacarepagua,not found,0,0,0,0,0
-1983,2,long_beach,not found,0,0,0,0,0
-1983,3,ricard,not found,0,0,0,0,0
-1983,4,imola,not found,0,0,0,0,0
-1983,5,monaco,not found,0,0,0,0,0
-1983,6,spa,not found,0,0,0,0,0
-1983,7,detroit,not found,0,0,0,0,0
-1983,8,villeneuve,not found,0,0,0,0,0
-1983,9,silverstone,not found,0,0,0,0,0
-1983,10,hockenheimring,not found,0,0,0,0,0
-1983,11,red_bull_ring,not found,0,0,0,0,0
-1983,12,zandvoort,not found,0,0,0,0,0
-1983,13,monza,not found,0,0,0,0,0
-1983,14,brands_hatch,not found,0,0,0,0,0
-1983,15,kyalami,not found,0,0,0,0,0
-1984,1,jacarepagua,not found,0,0,0,0,0
-1984,2,kyalami,not found,0,0,0,0,0
-1984,3,zolder,not found,0,0,0,0,0
-1984,4,imola,not found,0,0,0,0,0
-1984,5,dijon,not found,0,0,0,0,0
-1984,6,monaco,not found,0,0,0,0,0
-1984,7,villeneuve,not found,0,0,0,0,0
-1984,8,detroit,not found,0,0,0,0,0
-1984,9,dallas,not found,0,0,0,0,0
-1984,10,brands_hatch,not found,0,0,0,0,0
-1984,11,hockenheimring,not found,0,0,0,0,0
-1984,12,red_bull_ring,not found,0,0,0,0,0
-1984,13,zandvoort,not found,0,0,0,0,0
-1984,14,monza,not found,0,0,0,0,0
-1984,15,nurburgring,not found,0,0,0,0,0
-1984,16,estoril,not found,0,0,0,0,0
-1985,1,jacarepagua,not found,0,0,0,0,0
-1985,2,estoril,not found,0,0,0,0,0
-1985,3,imola,not found,0,0,0,0,0
-1985,4,monaco,not found,0,0,0,0,0
-1985,5,villeneuve,not found,0,0,0,0,0
-1985,6,detroit,not found,0,0,0,0,0
-1985,7,ricard,not found,0,0,0,0,0
-1985,8,silverstone,not found,0,0,0,0,0
-1985,9,nurburgring,not found,0,0,0,0,0
-1985,10,red_bull_ring,not found,0,0,0,0,0
-1985,11,zandvoort,not found,0,0,0,0,0
-1985,12,monza,not found,0,0,0,0,0
-1985,13,spa,not found,0,0,0,0,0
-1985,14,brands_hatch,not found,0,0,0,0,0
-1985,15,kyalami,not found,0,0,0,0,0
-1985,16,adelaide,not found,0,0,0,0,0
-1986,1,jacarepagua,not found,0,0,0,0,0
-1986,2,jerez,not found,0,0,0,0,0
-1986,3,imola,not found,0,0,0,0,0
-1986,4,monaco,not found,0,0,0,0,0
-1986,5,spa,not found,0,0,0,0,0
-1986,6,villeneuve,not found,0,0,0,0,0
-1986,7,detroit,not found,0,0,0,0,0
-1986,8,ricard,not found,0,0,0,0,0
-1986,9,brands_hatch,not found,0,0,0,0,0
-1986,10,hockenheimring,not found,0,0,0,0,0
-1986,11,hungaroring,not found,0,0,0,0,0
-1986,12,red_bull_ring,not found,0,0,0,0,0
-1986,13,monza,not found,0,0,0,0,0
-1986,14,estoril,not found,0,0,0,0,0
-1986,15,rodriguez,not found,0,0,0,0,0
-1986,16,adelaide,not found,0,0,0,0,0
-1987,1,jacarepagua,not found,0,0,0,0,0
-1987,2,imola,not found,0,0,0,0,0
-1987,3,spa,not found,0,0,0,0,0
-1987,4,monaco,not found,0,0,0,0,0
-1987,5,detroit,not found,0,0,0,0,0
-1987,6,ricard,not found,0,0,0,0,0
-1987,7,silverstone,not found,0,0,0,0,0
-1987,8,hockenheimring,not found,0,0,0,0,0
-1987,9,hungaroring,not found,0,0,0,0,0
-1987,10,red_bull_ring,not found,0,0,0,0,0
-1987,11,monza,not found,0,0,0,0,0
-1987,12,estoril,not found,0,0,0,0,0
-1987,13,jerez,not found,0,0,0,0,0
-1987,14,rodriguez,not found,0,0,0,0,0
-1987,15,suzuka,not found,0,0,0,0,0
-1987,16,adelaide,not found,0,0,0,0,0
-1988,1,jacarepagua,not found,0,0,0,0,0
-1988,2,imola,not found,0,0,0,0,0
-1988,3,monaco,not found,0,0,0,0,0
-1988,4,rodriguez,not found,0,0,0,0,0
-1988,5,villeneuve,not found,0,0,0,0,0
-1988,6,detroit,not found,0,0,0,0,0
-1988,7,ricard,not found,0,0,0,0,0
-1988,8,silverstone,not found,0,0,0,0,0
-1988,9,hockenheimring,not found,0,0,0,0,0
-1988,10,hungaroring,not found,0,0,0,0,0
-1988,11,spa,not found,0,0,0,0,0
-1988,12,monza,not found,0,0,0,0,0
-1988,13,estoril,not found,0,0,0,0,0
-1988,14,jerez,not found,0,0,0,0,0
-1988,15,suzuka,not found,0,0,0,0,0
-1988,16,adelaide,not found,0,0,0,0,0
-1989,1,jacarepagua,not found,0,0,0,0,0
-1989,2,imola,not found,0,0,0,0,0
-1989,3,monaco,not found,0,0,0,0,0
-1989,4,rodriguez,not found,0,0,0,0,0
-1989,5,phoenix,not found,0,0,0,0,0
-1989,6,villeneuve,not found,0,0,0,0,0
-1989,7,ricard,not found,0,0,0,0,0
-1989,8,silverstone,not found,0,0,0,0,0
-1989,9,hockenheimring,not found,0,0,0,0,0
-1989,10,hungaroring,not found,0,0,0,0,0
-1989,11,spa,not found,0,0,0,0,0
-1989,12,monza,not found,0,0,0,0,0
-1989,13,estoril,not found,0,0,0,0,0
-1989,14,jerez,not found,0,0,0,0,0
-1989,15,suzuka,not found,0,0,0,0,0
-1989,16,adelaide,not found,0,0,0,0,0
-1990,1,phoenix,not found,0,0,0,0,0
-1990,2,interlagos,not found,0,0,0,0,0
-1990,3,imola,not found,0,0,0,0,0
-1990,4,monaco,not found,0,0,0,0,0
-1990,5,villeneuve,not found,0,0,0,0,0
-1990,6,rodriguez,not found,0,0,0,0,0
-1990,7,ricard,not found,0,0,0,0,0
-1990,8,silverstone,not found,0,0,0,0,0
-1990,9,hockenheimring,not found,0,0,0,0,0
-1990,10,hungaroring,not found,0,0,0,0,0
-1990,11,spa,not found,0,0,0,0,0
-1990,12,monza,not found,0,0,0,0,0
-1990,13,estoril,not found,0,0,0,0,0
-1990,14,jerez,not found,0,0,0,0,0
-1990,15,suzuka,not found,0,0,0,0,0
-1990,16,adelaide,not found,0,0,0,0,0
-1991,1,phoenix,not found,0,0,0,0,0
-1991,2,interlagos,not found,0,0,0,0,0
-1991,3,imola,not found,0,0,0,0,0
-1991,4,monaco,not found,0,0,0,0,0
-1991,5,villeneuve,not found,0,0,0,0,0
-1991,6,rodriguez,not found,0,0,0,0,0
-1991,7,magny_cours,not found,0,0,0,0,0
-1991,8,silverstone,not found,0,0,0,0,0
-1991,9,hockenheimring,not found,0,0,0,0,0
-1991,10,hungaroring,not found,0,0,0,0,0
-1991,11,spa,not found,0,0,0,0,0
-1991,12,monza,not found,0,0,0,0,0
-1991,13,estoril,not found,0,0,0,0,0
-1991,14,catalunya,not found,0,0,0,0,0
-1991,15,suzuka,not found,0,0,0,0,0
-1991,16,adelaide,not found,0,0,0,0,0
-1992,1,kyalami,not found,0,0,0,0,0
-1992,2,rodriguez,not found,0,0,0,0,0
-1992,3,interlagos,not found,0,0,0,0,0
-1992,4,catalunya,not found,0,0,0,0,0
-1992,5,imola,not found,0,0,0,0,0
-1992,6,monaco,not found,0,0,0,0,0
-1992,7,villeneuve,not found,0,0,0,0,0
-1992,8,magny_cours,not found,0,0,0,0,0
-1992,9,silverstone,not found,0,0,0,0,0
-1992,10,hockenheimring,not found,0,0,0,0,0
-1992,11,hungaroring,not found,0,0,0,0,0
-1992,12,spa,not found,0,0,0,0,0
-1992,13,monza,not found,0,0,0,0,0
-1992,14,estoril,not found,0,0,0,0,0
-1992,15,suzuka,not found,0,0,0,0,0
-1992,16,adelaide,not found,0,0,0,0,0
-1993,1,kyalami,not found,0,0,0,0,0
-1993,2,interlagos,not found,0,0,0,0,0
-1993,3,donington,not found,0,0,0,0,0
-1993,4,imola,not found,0,0,0,0,0
-1993,5,catalunya,not found,0,0,0,0,0
-1993,6,monaco,not found,0,0,0,0,0
-1993,7,villeneuve,not found,0,0,0,0,0
-1993,8,magny_cours,not found,0,0,0,0,0
-1993,9,silverstone,not found,0,0,0,0,0
-1993,10,hockenheimring,not found,0,0,0,0,0
-1993,11,hungaroring,not found,0,0,0,0,0
-1993,12,spa,not found,0,0,0,0,0
-1993,13,monza,not found,0,0,0,0,0
-1993,14,estoril,not found,0,0,0,0,0
-1993,15,suzuka,not found,0,0,0,0,0
-1993,16,adelaide,not found,0,0,0,0,0
-1994,1,interlagos,not found,0,0,0,0,0
-1994,2,okayama,not found,0,0,0,0,0
-1994,3,imola,not found,0,0,0,0,0
-1994,4,monaco,not found,0,0,0,0,0
-1994,5,catalunya,not found,0,0,0,0,0
-1994,6,villeneuve,not found,0,0,0,0,0
-1994,7,magny_cours,not found,0,0,0,0,0
-1994,8,silverstone,not found,0,0,0,0,0
-1994,9,hockenheimring,not found,0,0,0,0,0
-1994,10,hungaroring,not found,0,0,0,0,0
-1994,11,spa,not found,0,0,0,0,0
-1994,12,monza,not found,0,0,0,0,0
-1994,13,estoril,not found,0,0,0,0,0
-1994,14,jerez,not found,0,0,0,0,0
-1994,15,suzuka,not found,0,0,0,0,0
-1994,16,adelaide,not found,0,0,0,0,0
-1995,1,interlagos,not found,0,0,0,0,0
-1995,2,galvez,not found,0,0,0,0,0
-1995,3,imola,not found,0,0,0,0,0
-1995,4,catalunya,not found,0,0,0,0,0
-1995,5,monaco,not found,0,0,0,0,0
-1995,6,villeneuve,not found,0,0,0,0,0
-1995,7,magny_cours,not found,0,0,0,0,0
-1995,8,silverstone,not found,0,0,0,0,0
-1995,9,hockenheimring,not found,0,0,0,0,0
-1995,10,hungaroring,not found,0,0,0,0,0
-1995,11,spa,not found,0,0,0,0,0
-1995,12,monza,not found,0,0,0,0,0
-1995,13,estoril,not found,0,0,0,0,0
-1995,14,nurburgring,not found,0,0,0,0,0
-1995,15,okayama,not found,0,0,0,0,0
-1995,16,suzuka,not found,0,0,0,0,0
-1995,17,adelaide,not found,0,0,0,0,0
-1996,1,albert_park,not found,0,0,0,0,0
-1996,2,interlagos,not found,0,0,0,0,0
-1996,3,galvez,not found,0,0,0,0,0
-1996,4,nurburgring,not found,0,0,0,0,0
-1996,5,imola,not found,0,0,0,0,0
-1996,6,monaco,not found,0,0,0,0,0
-1996,7,catalunya,not found,0,0,0,0,0
-1996,8,villeneuve,not found,0,0,0,0,0
-1996,9,magny_cours,not found,0,0,0,0,0
-1996,10,silverstone,not found,0,0,0,0,0
-1996,11,hockenheimring,not found,0,0,0,0,0
-1996,12,hungaroring,not found,0,0,0,0,0
-1996,13,spa,not found,0,0,0,0,0
-1996,14,monza,not found,0,0,0,0,0
-1996,15,estoril,not found,0,0,0,0,0
-1996,16,suzuka,not found,0,0,0,0,0
-1997,1,albert_park,not found,0,0,0,0,0
-1997,2,interlagos,not found,0,0,0,0,0
-1997,3,galvez,not found,0,0,0,0,0
-1997,4,imola,not found,0,0,0,0,0
-1997,5,monaco,not found,0,0,0,0,0
-1997,6,catalunya,not found,0,0,0,0,0
-1997,7,villeneuve,not found,0,0,0,0,0
-1997,8,magny_cours,not found,0,0,0,0,0
-1997,9,silverstone,not found,0,0,0,0,0
-1997,10,hockenheimring,not found,0,0,0,0,0
-1997,11,hungaroring,not found,0,0,0,0,0
-1997,12,spa,not found,0,0,0,0,0
-1997,13,monza,not found,0,0,0,0,0
-1997,14,red_bull_ring,not found,0,0,0,0,0
-1997,15,nurburgring,not found,0,0,0,0,0
-1997,16,suzuka,not found,0,0,0,0,0
-1997,17,jerez,not found,0,0,0,0,0
-1998,1,albert_park,not found,0,0,0,0,0
-1998,2,interlagos,not found,0,0,0,0,0
-1998,3,galvez,not found,0,0,0,0,0
-1998,4,imola,not found,0,0,0,0,0
-1998,5,catalunya,not found,0,0,0,0,0
-1998,6,monaco,not found,0,0,0,0,0
-1998,7,villeneuve,not found,0,0,0,0,0
-1998,8,magny_cours,not found,0,0,0,0,0
-1998,9,silverstone,not found,0,0,0,0,0
-1998,10,red_bull_ring,not found,0,0,0,0,0
-1998,11,hockenheimring,not found,0,0,0,0,0
-1998,12,hungaroring,not found,0,0,0,0,0
-1998,13,spa,not found,0,0,0,0,0
-1998,14,monza,not found,0,0,0,0,0
-1998,15,nurburgring,not found,0,0,0,0,0
-1998,16,suzuka,not found,0,0,0,0,0
-1999,1,albert_park,not found,0,0,0,0,0
-1999,2,interlagos,not found,0,0,0,0,0
-1999,3,imola,not found,0,0,0,0,0
-1999,4,monaco,not found,0,0,0,0,0
-1999,5,catalunya,not found,0,0,0,0,0
-1999,6,villeneuve,not found,0,0,0,0,0
-1999,7,magny_cours,not found,0,0,0,0,0
-1999,8,silverstone,not found,0,0,0,0,0
-1999,9,red_bull_ring,not found,0,0,0,0,0
-1999,10,hockenheimring,not found,0,0,0,0,0
-1999,11,hungaroring,not found,0,0,0,0,0
-1999,12,spa,not found,0,0,0,0,0
-1999,13,monza,not found,0,0,0,0,0
-1999,14,nurburgring,not found,0,0,0,0,0
-1999,15,sepang,not found,0,0,0,0,0
-1999,16,suzuka,not found,0,0,0,0,0
-2000,1,albert_park,not found,0,0,0,0,0
-2000,2,interlagos,not found,0,0,0,0,0
-2000,3,imola,not found,0,0,0,0,0
-2000,4,silverstone,not found,0,0,0,0,0
-2000,5,catalunya,not found,0,0,0,0,0
-2000,6,nurburgring,not found,0,0,0,0,0
-2000,7,monaco,not found,0,0,0,0,0
-2000,8,villeneuve,not found,0,0,0,0,0
-2000,9,magny_cours,not found,0,0,0,0,0
-2000,10,red_bull_ring,not found,0,0,0,0,0
-2000,11,hockenheimring,not found,0,0,0,0,0
-2000,12,hungaroring,not found,0,0,0,0,0
-2000,13,spa,not found,0,0,0,0,0
-2000,14,monza,not found,0,0,0,0,0
-2000,15,indianapolis,not found,0,0,0,0,0
-2000,16,suzuka,not found,0,0,0,0,0
-2000,17,sepang,not found,0,0,0,0,0
-2001,1,albert_park,not found,0,0,0,0,0
-2001,2,sepang,not found,0,0,0,0,0
-2001,3,interlagos,not found,0,0,0,0,0
-2001,4,imola,not found,0,0,0,0,0
-2001,5,catalunya,not found,0,0,0,0,0
-2001,6,red_bull_ring,not found,0,0,0,0,0
-2001,7,monaco,not found,0,0,0,0,0
-2001,8,villeneuve,not found,0,0,0,0,0
-2001,9,nurburgring,not found,0,0,0,0,0
-2001,10,magny_cours,not found,0,0,0,0,0
-2001,11,silverstone,not found,0,0,0,0,0
-2001,12,hockenheimring,not found,0,0,0,0,0
-2001,13,hungaroring,not found,0,0,0,0,0
-2001,14,spa,not found,0,0,0,0,0
-2001,15,monza,not found,0,0,0,0,0
-2001,16,indianapolis,not found,0,0,0,0,0
-2001,17,suzuka,not found,0,0,0,0,0
-2002,1,albert_park,not found,0,0,0,0,0
-2002,2,sepang,not found,0,0,0,0,0
-2002,3,interlagos,not found,0,0,0,0,0
-2002,4,imola,not found,0,0,0,0,0
-2002,5,catalunya,not found,0,0,0,0,0
-2002,6,red_bull_ring,not found,0,0,0,0,0
-2002,7,monaco,not found,0,0,0,0,0
-2002,8,villeneuve,not found,0,0,0,0,0
-2002,9,nurburgring,not found,0,0,0,0,0
-2002,10,silverstone,not found,0,0,0,0,0
-2002,11,magny_cours,not found,0,0,0,0,0
-2002,12,hockenheimring,not found,0,0,0,0,0
-2002,13,hungaroring,not found,0,0,0,0,0
-2002,14,spa,not found,0,0,0,0,0
-2002,15,monza,not found,0,0,0,0,0
-2002,16,indianapolis,not found,0,0,0,0,0
-2002,17,suzuka,not found,0,0,0,0,0
-2003,1,albert_park,not found,0,0,0,0,0
-2003,2,sepang,not found,0,0,0,0,0
-2003,3,interlagos,not found,0,0,0,0,0
-2003,4,imola,not found,0,0,0,0,0
-2003,5,catalunya,not found,0,0,0,0,0
-2003,6,red_bull_ring,not found,0,0,0,0,0
-2003,7,monaco,not found,0,0,0,0,0
-2003,8,villeneuve,not found,0,0,0,0,0
-2003,9,nurburgring,not found,0,0,0,0,0
-2003,10,magny_cours,not found,0,0,0,0,0
-2003,11,silverstone,not found,0,0,0,0,0
-2003,12,hockenheimring,not found,0,0,0,0,0
-2003,13,hungaroring,not found,0,0,0,0,0
-2003,14,monza,not found,0,0,0,0,0
-2003,15,indianapolis,not found,0,0,0,0,0
-2003,16,suzuka,not found,0,0,0,0,0
-2004,1,albert_park,not found,0,0,0,0,0
-2004,2,sepang,not found,0,0,0,0,0
-2004,3,bahrain,not found,0,0,0,0,0
-2004,4,imola,not found,0,0,0,0,0
-2004,5,catalunya,not found,0,0,0,0,0
-2004,6,monaco,not found,0,0,0,0,0
-2004,7,nurburgring,not found,0,0,0,0,0
-2004,8,villeneuve,not found,0,0,0,0,0
-2004,9,indianapolis,not found,0,0,0,0,0
-2004,10,magny_cours,not found,0,0,0,0,0
-2004,11,silverstone,not found,0,0,0,0,0
-2004,12,hockenheimring,not found,0,0,0,0,0
-2004,13,hungaroring,not found,0,0,0,0,0
-2004,14,spa,not found,0,0,0,0,0
-2004,15,monza,not found,0,0,0,0,0
-2004,16,shanghai,not found,0,0,0,0,0
-2004,17,suzuka,not found,0,0,0,0,0
-2004,18,interlagos,not found,0,0,0,0,0
-2005,1,albert_park,not found,0,0,0,0,0
-2005,2,sepang,not found,0,0,0,0,0
-2005,3,bahrain,not found,0,0,0,0,0
-2005,4,imola,not found,0,0,0,0,0
-2005,5,catalunya,not found,0,0,0,0,0
-2005,6,monaco,not found,0,0,0,0,0
-2005,7,nurburgring,not found,0,0,0,0,0
-2005,8,villeneuve,not found,0,0,0,0,0
-2005,9,indianapolis,not found,0,0,0,0,0
-2005,10,magny_cours,not found,0,0,0,0,0
-2005,11,silverstone,not found,0,0,0,0,0
-2005,12,hockenheimring,not found,0,0,0,0,0
-2005,13,hungaroring,not found,0,0,0,0,0
-2005,14,istanbul,not found,0,0,0,0,0
-2005,15,monza,not found,0,0,0,0,0
-2005,16,spa,not found,0,0,0,0,0
-2005,17,interlagos,not found,0,0,0,0,0
-2005,18,suzuka,not found,0,0,0,0,0
-2005,19,shanghai,not found,0,0,0,0,0
-2006,1,bahrain,not found,0,0,0,0,0
-2006,2,sepang,not found,0,0,0,0,0
-2006,3,albert_park,not found,0,0,0,0,0
-2006,4,imola,not found,0,0,0,0,0
-2006,5,nurburgring,not found,0,0,0,0,0
-2006,6,catalunya,not found,0,0,0,0,0
-2006,7,monaco,not found,0,0,0,0,0
-2006,8,silverstone,not found,0,0,0,0,0
-2006,9,villeneuve,not found,0,0,0,0,0
-2006,10,indianapolis,not found,0,0,0,0,0
-2006,11,magny_cours,not found,0,0,0,0,0
-2006,12,hockenheimring,not found,0,0,0,0,0
-2006,13,hungaroring,not found,0,0,0,0,0
-2006,14,istanbul,not found,0,0,0,0,0
-2006,15,monza,not found,0,0,0,0,0
-2006,16,shanghai,not found,0,0,0,0,0
-2006,17,suzuka,not found,0,0,0,0,0
-2006,18,interlagos,not found,0,0,0,0,0
-2007,1,albert_park,not found,0,0,0,0,0
-2007,2,sepang,not found,0,0,0,0,0
-2007,3,bahrain,not found,0,0,0,0,0
-2007,4,catalunya,not found,0,0,0,0,0
-2007,5,monaco,not found,0,0,0,0,0
-2007,6,villeneuve,not found,0,0,0,0,0
-2007,7,indianapolis,not found,0,0,0,0,0
-2007,8,magny_cours,not found,0,0,0,0,0
-2007,9,silverstone,not found,0,0,0,0,0
-2007,10,nurburgring,not found,0,0,0,0,0
-2007,11,hungaroring,not found,0,0,0,0,0
-2007,12,istanbul,not found,0,0,0,0,0
-2007,13,monza,not found,0,0,0,0,0
-2007,14,spa,not found,0,0,0,0,0
-2007,15,fuji,not found,0,0,0,0,0
-2007,16,shanghai,not found,0,0,0,0,0
-2007,17,interlagos,not found,0,0,0,0,0
-2008,1,albert_park,not found,0,0,0,0,0
-2008,2,sepang,not found,0,0,0,0,0
-2008,3,bahrain,not found,0,0,0,0,0
-2008,4,catalunya,not found,0,0,0,0,0
-2008,5,istanbul,not found,0,0,0,0,0
-2008,6,monaco,not found,0,0,0,0,0
-2008,7,villeneuve,not found,0,0,0,0,0
-2008,8,magny_cours,not found,0,0,0,0,0
-2008,9,silverstone,not found,0,0,0,0,0
-2008,10,hockenheimring,not found,0,0,0,0,0
-2008,11,hungaroring,not found,0,0,0,0,0
-2008,12,valencia,not found,0,0,0,0,0
-2008,13,spa,not found,0,0,0,0,0
-2008,14,monza,not found,0,0,0,0,0
-2008,15,marina_bay,not found,0,0,0,0,0
-2008,16,fuji,not found,0,0,0,0,0
-2008,17,shanghai,not found,0,0,0,0,0
-2008,18,interlagos,not found,0,0,0,0,0
-2009,1,albert_park,not found,0,0,0,0,0
-2009,2,sepang,not found,0,0,0,0,0
-2009,3,shanghai,not found,0,0,0,0,0
-2009,4,bahrain,not found,0,0,0,0,0
-2009,5,catalunya,not found,0,0,0,0,0
-2009,6,monaco,not found,0,0,0,0,0
-2009,7,istanbul,not found,0,0,0,0,0
-2009,8,silverstone,not found,0,0,0,0,0
-2009,9,nurburgring,not found,0,0,0,0,0
-2009,10,hungaroring,not found,0,0,0,0,0
-2009,11,valencia,not found,0,0,0,0,0
-2009,12,spa,not found,0,0,0,0,0
-2009,13,monza,not found,0,0,0,0,0
-2009,14,marina_bay,not found,0,0,0,0,0
-2009,15,suzuka,not found,0,0,0,0,0
-2009,16,interlagos,not found,0,0,0,0,0
-2009,17,yas_marina,not found,0,0,0,0,0
-2010,1,bahrain,not found,0,0,0,0,0
-2010,2,albert_park,not found,0,0,0,0,0
-2010,3,sepang,not found,0,0,0,0,0
-2010,4,shanghai,not found,0,0,0,0,0
-2010,5,catalunya,not found,0,0,0,0,0
-2010,6,monaco,not found,0,0,0,0,0
-2010,7,istanbul,not found,0,0,0,0,0
-2010,8,villeneuve,not found,0,0,0,0,0
-2010,9,valencia,not found,0,0,0,0,0
-2010,10,silverstone,not found,0,0,0,0,0
-2010,11,hockenheimring,not found,0,0,0,0,0
-2010,12,hungaroring,not found,0,0,0,0,0
-2010,13,spa,not found,0,0,0,0,0
-2010,14,monza,not found,0,0,0,0,0
-2010,15,marina_bay,not found,0,0,0,0,0
-2010,16,suzuka,not found,0,0,0,0,0
-2010,17,yeongam,not found,0,0,0,0,0
-2010,18,interlagos,not found,0,0,0,0,0
-2010,19,yas_marina,not found,0,0,0,0,0
-2011,1,albert_park,not found,0,0,0,0,0
-2011,2,sepang,not found,0,0,0,0,0
-2011,3,shanghai,not found,0,0,0,0,0
-2011,4,istanbul,not found,0,0,0,0,0
-2011,5,catalunya,not found,0,0,0,0,0
-2011,6,monaco,not found,0,0,0,0,0
-2011,7,villeneuve,not found,0,0,0,0,0
-2011,8,valencia,not found,0,0,0,0,0
-2011,9,silverstone,not found,0,0,0,0,0
-2011,10,nurburgring,not found,0,0,0,0,0
-2011,11,hungaroring,not found,0,0,0,0,0
-2011,12,spa,not found,0,0,0,0,0
-2011,13,monza,not found,0,0,0,0,0
-2011,14,marina_bay,not found,0,0,0,0,0
-2011,15,suzuka,not found,0,0,0,0,0
-2011,16,yeongam,not found,0,0,0,0,0
-2011,17,buddh,not found,0,0,0,0,0
-2011,18,yas_marina,not found,0,0,0,0,0
-2011,19,interlagos,not found,0,0,0,0,0
-2012,1,albert_park,not found,0,0,0,0,0
-2012,2,sepang,not found,0,0,0,0,0
-2012,3,shanghai,not found,0,0,0,0,0
-2012,4,bahrain,not found,0,0,0,0,0
-2012,5,catalunya,not found,0,0,0,0,0
-2012,6,monaco,not found,0,0,0,0,0
-2012,7,villeneuve,not found,0,0,0,0,0
-2012,8,valencia,not found,0,0,0,0,0
-2012,9,silverstone,not found,0,0,0,0,0
-2012,10,hockenheimring,not found,0,0,0,0,0
-2012,11,hungaroring,not found,0,0,0,0,0
-2012,12,spa,not found,0,0,0,0,0
-2012,13,monza,not found,0,0,0,0,0
-2012,14,marina_bay,not found,0,0,0,0,0
-2012,15,suzuka,not found,0,0,0,0,0
-2012,16,yeongam,not found,0,0,0,0,0
-2012,17,buddh,not found,0,0,0,0,0
-2012,18,yas_marina,not found,0,0,0,0,0
-2012,19,americas,not found,0,0,0,0,0
-2012,20,interlagos,not found,0,0,0,0,0
-2013,1,albert_park,not found,0,0,0,0,0
-2013,2,sepang,not found,0,0,0,0,0
-2013,3,shanghai,not found,0,0,0,0,0
-2013,4,bahrain,not found,0,0,0,0,0
-2013,5,catalunya,not found,0,0,0,0,0
-2013,6,monaco,not found,0,0,0,0,0
-2013,7,villeneuve,not found,0,0,0,0,0
-2013,8,silverstone,not found,0,0,0,0,0
-2013,9,nurburgring,not found,0,0,0,0,0
-2013,10,hungaroring,not found,0,0,0,0,0
-2013,11,spa,not found,0,0,0,0,0
-2013,12,monza,not found,0,0,0,0,0
-2013,13,marina_bay,not found,0,0,0,0,0
-2013,14,yeongam,not found,0,0,0,0,0
-2013,15,suzuka,not found,0,0,0,0,0
-2013,16,buddh,not found,0,0,0,0,0
-2013,17,yas_marina,not found,0,0,0,0,0
-2013,18,americas,not found,0,0,0,0,0
-2013,19,interlagos,not found,0,0,0,0,0
-2014,1,albert_park,not found,0,0,0,0,0
-2014,2,sepang,not found,0,0,0,0,0
-2014,3,bahrain,not found,0,0,0,0,0
-2014,4,shanghai,not found,0,0,0,0,0
-2014,5,catalunya,not found,0,0,0,0,0
-2014,6,monaco,not found,0,0,0,0,0
-2014,7,villeneuve,not found,0,0,0,0,0
-2014,8,red_bull_ring,not found,0,0,0,0,0
-2014,9,silverstone,not found,0,0,0,0,0
-2014,10,hockenheimring,not found,0,0,0,0,0
-2014,11,hungaroring,not found,0,0,0,0,0
-2014,12,spa,not found,0,0,0,0,0
-2014,13,monza,not found,0,0,0,0,0
-2014,14,marina_bay,not found,0,0,0,0,0
-2014,15,suzuka,not found,0,0,0,0,0
-2014,16,sochi,not found,0,0,0,0,0
-2014,17,americas,not found,0,0,0,0,0
-2014,18,interlagos,not found,0,0,0,0,0
-2014,19,yas_marina,not found,0,0,0,0,0
-2015,1,albert_park,not found,0,0,0,0,0
-2015,2,sepang,not found,0,0,0,0,0
-2015,3,shanghai,not found,0,0,0,0,0
-2015,4,bahrain,not found,0,0,0,0,0
-2015,5,catalunya,not found,0,0,0,0,0
-2015,6,monaco,not found,0,0,0,0,0
-2015,7,villeneuve,not found,0,0,0,0,0
-2015,8,red_bull_ring,not found,0,0,0,0,0
-2015,9,silverstone,not found,0,0,0,0,0
-2015,10,hungaroring,not found,0,0,0,0,0
-2015,11,spa,not found,0,0,0,0,0
-2015,12,monza,not found,0,0,0,0,0
-2015,13,marina_bay,not found,0,0,0,0,0
-2015,14,suzuka,not found,0,0,0,0,0
-2015,15,sochi,not found,0,0,0,0,0
-2015,16,americas,not found,0,0,0,0,0
-2015,17,rodriguez,not found,0,0,0,0,0
-2015,18,interlagos,not found,0,0,0,0,0
-2015,19,yas_marina,not found,0,0,0,0,0
-2016,1,albert_park,not found,0,0,0,0,0
-2016,2,bahrain,not found,0,0,0,0,0
-2016,3,shanghai,not found,0,0,0,0,0
-2016,4,sochi,not found,0,0,0,0,0
-2016,5,catalunya,not found,0,0,0,0,0
-2016,6,monaco,not found,0,0,0,0,0
-2016,7,villeneuve,not found,0,0,0,0,0
-2016,8,baku,not found,0,0,0,0,0
-2016,9,red_bull_ring,not found,0,0,0,0,0
-2016,10,silverstone,not found,0,0,0,0,0
-2016,11,hungaroring,not found,0,0,0,0,0
-2016,12,hockenheimring,not found,0,0,0,0,0
-2016,13,spa,not found,0,0,0,0,0
-2016,14,monza,not found,0,0,0,0,0
-2016,15,marina_bay,not found,0,0,0,0,0
-2016,16,sepang,not found,0,0,0,0,0
-2016,17,suzuka,not found,0,0,0,0,0
-2016,18,americas,not found,0,0,0,0,0
-2016,19,rodriguez,not found,0,0,0,0,0
-2016,20,interlagos,not found,0,0,0,0,0
-2016,21,yas_marina,not found,0,0,0,0,0
-2017,1,albert_park,not found,0,0,0,0,0
-2017,2,shanghai,not found,0,0,0,0,0
-2017,3,bahrain,not found,0,0,0,0,0
-2017,4,sochi,not found,0,0,0,0,0
-2017,5,catalunya,not found,0,0,0,0,0
-2017,6,monaco,not found,0,0,0,0,0
-2017,7,villeneuve,not found,0,0,0,0,0
-2017,8,baku,not found,0,0,0,0,0
-2017,9,red_bull_ring,not found,0,0,0,0,0
-2017,10,silverstone,not found,0,0,0,0,0
-2017,11,hungaroring,not found,0,0,0,0,0
-2017,12,spa,not found,0,0,0,0,0
-2017,13,monza,not found,0,0,0,0,0
-2017,14,marina_bay,not found,0,0,0,0,0
-2017,15,sepang,not found,0,0,0,0,0
-2017,16,suzuka,not found,0,0,0,0,0
-2017,17,americas,not found,0,0,0,0,0
-2017,18,rodriguez,not found,0,0,0,0,0
-2017,19,interlagos,not found,0,0,0,0,0
-2017,20,yas_marina,not found,0,0,0,0,0
-2018,1,albert_park,not found,0,0,0,0,0
-2018,2,bahrain,not found,0,0,0,0,0
-2018,3,shanghai,not found,0,0,0,0,0
-2018,4,baku,not found,0,0,0,0,0
-2018,5,catalunya,not found,0,0,0,0,0
-2018,6,monaco,not found,0,0,0,0,0
-2018,7,villeneuve,not found,0,0,0,0,0
-2018,8,ricard,not found,0,0,0,0,0
-2018,9,red_bull_ring,not found,0,0,0,0,0
-2018,10,silverstone,not found,0,0,0,0,0
-2018,11,hockenheimring,not found,0,0,0,0,0
-2018,12,hungaroring,not found,0,0,0,0,0
-2018,13,spa,not found,0,0,0,0,0
-2018,14,monza,not found,0,0,0,0,0
-2018,15,marina_bay,not found,0,0,0,0,0
-2018,16,sochi,not found,0,0,0,0,0
-2018,17,suzuka,not found,0,0,0,0,0
-2018,18,americas,not found,0,0,0,0,0
-2018,19,rodriguez,not found,0,0,0,0,0
-2018,20,interlagos,not found,0,0,0,0,0
-2018,21,yas_marina,not found,0,0,0,0,0
-2019,1,albert_park,not found,0,0,0,0,0
-2019,2,bahrain,not found,0,0,0,0,0
-2019,3,shanghai,not found,0,0,0,0,0
-2019,4,baku,not found,0,0,0,0,0
-2019,5,catalunya,not found,0,0,0,0,0
-2019,6,monaco,not found,0,0,0,0,0
-2019,7,villeneuve,not found,0,0,0,0,0
-2019,8,ricard,not found,0,0,0,0,0
-2019,9,red_bull_ring,not found,0,0,0,0,0
-2019,10,silverstone,not found,0,0,0,0,0
-2019,11,hockenheimring,not found,0,0,0,0,0
-2019,12,hungaroring,not found,0,0,0,0,0
-2019,13,spa,not found,0,0,0,0,0
-2019,14,monza,not found,0,0,0,0,0
-2019,15,marina_bay,not found,0,0,0,0,0
-2019,16,sochi,not found,0,0,0,0,0
-2019,17,suzuka,not found,0,0,0,0,0
-2019,18,rodriguez,not found,0,0,0,0,0
-2019,19,americas,not found,0,0,0,0,0
-2019,20,interlagos,not found,0,0,0,0,0
-2019,21,yas_marina,not found,0,0,0,0,0
-2020,1,red_bull_ring,not found,0,0,0,0,0
-2020,2,red_bull_ring,not found,0,0,0,0,0
-2020,3,hungaroring,not found,0,0,0,0,0
-2020,4,silverstone,not found,0,0,0,0,0
-2020,5,silverstone,not found,0,0,0,0,0
-2020,6,catalunya,not found,0,0,0,0,0
-2020,7,spa,not found,0,0,0,0,0
-2020,8,monza,not found,0,0,0,0,0
-2020,9,mugello,not found,0,0,0,0,0
-2020,10,sochi,not found,0,0,0,0,0
-2020,11,nurburgring,not found,0,0,0,0,0
-2020,12,portimao,not found,0,0,0,0,0
-2020,13,imola,not found,0,0,0,0,0
-2020,14,istanbul,not found,0,0,0,0,0
-2020,15,bahrain,not found,0,0,0,0,0
-2020,16,bahrain,not found,0,0,0,0,0
-2020,17,yas_marina,not found,0,0,0,0,0
-2021,1,bahrain,not found,0,0,0,0,0
-2021,2,imola,not found,0,0,0,0,0
-2021,3,portimao,not found,0,0,0,0,0
-2021,4,catalunya,not found,0,0,0,0,0
-2021,5,monaco,not found,0,0,0,0,0
-2021,6,baku,not found,0,0,0,0,0
-2021,7,ricard,not found,0,0,0,0,0
-2021,8,red_bull_ring,not found,0,0,0,0,0
-2021,9,red_bull_ring,not found,0,0,0,0,0
-2021,10,silverstone,not found,0,0,0,0,0
-2021,11,hungaroring,not found,0,0,0,0,0
-2021,12,spa,not found,0,0,0,0,0
-2021,13,zandvoort,not found,0,0,0,0,0
-2021,14,monza,not found,0,0,0,0,0
-2021,15,sochi,not found,0,0,0,0,0
-2021,16,istanbul,not found,0,0,0,0,0
-2021,17,americas,not found,0,0,0,0,0
-2021,18,rodriguez,not found,0,0,0,0,0
-2021,19,interlagos,not found,0,0,0,0,0
-2021,20,losail,not found,0,0,0,0,0
-2021,21,jeddah,not found,0,0,0,0,0
-2021,22,yas_marina,not found,0,0,0,0,0
-2022,1,bahrain,not found,0,0,0,0,0
-2022,2,jeddah,not found,0,0,0,0,0
-2022,3,albert_park,not found,0,0,0,0,0
-2022,4,imola,not found,0,0,0,0,0
-2022,5,miami,not found,0,0,0,0,0
-2022,6,catalunya,not found,0,0,0,0,0
-2022,7,monaco,not found,0,0,0,0,0
-2022,8,baku,not found,0,0,0,0,0
-2022,9,villeneuve,not found,0,0,0,0,0
-2022,10,silverstone,not found,0,0,0,0,0
-2022,11,red_bull_ring,not found,0,0,0,0,0
-2022,12,ricard,not found,0,0,0,0,0
-2022,13,hungaroring,not found,0,0,0,0,0
-2022,14,spa,not found,0,0,0,0,0
-2022,15,zandvoort,not found,0,0,0,0,0
-2022,16,monza,not found,0,0,0,0,0
-2022,17,marina_bay,not found,0,0,0,0,0
-2022,18,suzuka,not found,0,0,0,0,0
-2022,19,americas,not found,0,0,0,0,0
-2022,20,rodriguez,not found,0,0,0,0,0
-2022,21,interlagos,not found,0,0,0,0,0
-2022,22,yas_marina,not found,0,0,0,0,0
-2023,1,bahrain,not found,0,0,0,0,0
-2023,2,jeddah,not found,0,0,0,0,0
-2023,3,albert_park,not found,0,0,0,0,0
-2023,4,baku,not found,0,0,0,0,0
-2023,5,miami,not found,0,0,0,0,0
-2023,6,monaco,not found,0,0,0,0,0
-2023,7,catalunya,not found,0,0,0,0,0
-2023,8,villeneuve,not found,0,0,0,0,0
-2023,9,red_bull_ring,not found,0,0,0,0,0
-2023,10,silverstone,not found,0,0,0,0,0
-2023,11,hungaroring,not found,0,0,0,0,0
-2023,12,spa,not found,0,0,0,0,0
-2023,13,zandvoort,not found,0,0,0,0,0
-2023,14,monza,not found,0,0,0,0,0
-2023,15,marina_bay,not found,0,0,0,0,0
-2023,16,suzuka,not found,0,0,0,0,0
-2023,17,losail,not found,0,0,0,0,0
-2023,18,americas,not found,0,0,0,0,0
-2023,19,rodriguez,not found,0,0,0,0,0
-2023,20,interlagos,not found,0,0,0,0,0
+2015,1,albert_park,Partly cloudy 17–18 °C (63–64 °F) air temperature 32–37 °C (90–99 °F) track temperature 6 m/s (20 ft/s) wind from the south[3],0,0,0,0,1
+2015,2,sepang,Sunny 32–33 °C (90–91 °F) air temperature 53–58 °C (127–136 °F) track temperature 2 m/s (6.6 ft/s) wind from the south[3],1,0,0,0,0
+2015,3,shanghai,Sunny 21 °C (70 °F) air temperature 46 °C (115 °F) track temperature 1.4 m/s (4.6 ft/s) wind from the northwest[1],1,0,0,0,0
+2015,4,bahrain,"Sunny, clear 24–26 °C (75–79 °F) air temperature 28–31 °C (82–88 °F) track temperature 1.5 m/s (4.9 ft/s) wind from the north[1]",1,0,0,0,0
+2015,5,catalunya,Sunny 25 °C (77 °F) air temperature 44 °C (111 °F) track temperature 1.8 m/s (5.9 ft/s) wind from the northeast[3],1,0,0,0,0
+2015,6,monaco,Partly cloudy 18–19 °C (64–66 °F) air temperature 31–37 °C (88–99 °F) track temperature 1.5 m/s (4.9 ft/s) wind from the west[2],0,0,0,0,1
+2015,7,villeneuve,Sunny 20–21 °C (68–70 °F) air temperature 39 °C (102 °F) track temperature 4 m/s (13 ft/s) wind from the north[2],1,0,0,0,0
+2015,8,red_bull_ring,Cloudy 14–15 °C (57–59 °F) air temperature 27–32 °C (81–90 °F) track temperature 2 m/s (6.6 ft/s) wind from the west[2],0,0,0,0,1
+2015,9,silverstone,"Cloudy, rain at times 17–20 °C (63–68 °F) air temperature 24–32 °C (75–90 °F) track temperature 2.5 m/s (8.2 ft/s) wind from the east[2]",0,0,0,1,0
+2015,10,hungaroring,Sunny 22–24 °C (72–75 °F) air temperature 41–48 °C (106–118 °F) track temperature 3.2 m/s (10 ft/s) wind from the east[2],1,0,0,0,0
+2015,11,spa,Cloudy 23 °C (73 °F) air temperature 33–37 °C (91–99 °F) track temperature 3.5 m/s (11 ft/s) wind from the northwest[2],0,0,0,0,1
+2015,12,monza,Partly cloudy 22–23 °C (72–73 °F) air temperature 38–39 °C (100–102 °F) track temperature 1.5 m/s (4.9 ft/s) wind from changing directions[2],0,0,0,0,1
+2015,13,marina_bay,Dry 28–29 °C (82–84 °F) air temperature 34–36 °C (93–97 °F) track temperature 0.5 m/s (1.6 ft/s) wind from the west[2],0,0,1,0,0
+2015,14,suzuka,Partly cloudy 27 °C (81 °F) air temperature 52–54 °C (126–129 °F) track temperature 4.5 m/s (15 ft/s) wind from the east[2],0,0,0,0,1
+2015,15,sochi,Partly cloudy 18 °C (64 °F) air temperature 25–27 °C (77–81 °F) track temperature 1.5 m/s (4.9 ft/s) wind from the north[2],0,0,0,0,1
+2015,16,americas,Very cloudy 17 °C (63 °F) air temperature 17–20 °C (63–68 °F) track temperature 8 m/s (26 ft/s) wind from the south[2],0,0,0,0,1
+2015,17,rodriguez,Partly cloudy 22–24 °C (72–75 °F) air temperature 48–56 °C (118–133 °F) track temperature 1.5 m/s (4.9 ft/s) wind from the northwest[2],0,0,0,0,1
+2015,18,interlagos,Dry 22–28 °C (72–82 °F) air temperature 38–48 °C (100–118 °F) track temperature 2.5 m/s (8.2 ft/s) wind from the north[2],0,0,1,0,0
+2015,19,yas_marina,Clear 25–27 °C (77–81 °F) air temperature 28–29 °C (82–84 °F) track temperature 1.5 m/s (4.9 ft/s) wind from the south[3],1,0,0,0,0
+2016,1,albert_park,Partly cloudy 22–23 °C (72–73 °F) air temperature 26–36 °C (79–97 °F) track temperature 4 m/s (8.9 mph; 14 km/h) wind from the south[4],0,0,0,0,1
+2016,2,bahrain,Dry 21–22 °C (70–72 °F) air temperature 26–29 °C (79–84 °F) track temperature 2 m/s (6.6 ft/s) wind from the southwest[4],0,0,1,0,0
+2016,3,shanghai,Sunny 21 °C (70 °F) air temperature 37 °C (99 °F) track temperature 4.8 m/s (16 ft/s) wind from the northeast[4],1,0,0,0,0
+2016,4,sochi,Partly cloudy 16 °C (61 °F) air temperature 37–41 °C (99–106 °F) track temperature 2.5 m/s (8.2 ft/s) wind from the southwest[4],0,0,0,0,1
+2016,5,catalunya,Partly cloudy 20–22 °C (68–72 °F) air temperature 39–41 °C (102–106 °F) track temperature 2 m/s (6.6 ft/s) wind from the north[4],0,0,0,0,1
+2016,6,monaco,"Rainy at start, dry later 17–18 °C (63–64 °F) air temperature 20–22 °C (68–72 °F) track temperature 2 m/s (6.6 ft/s) wind from the north[4]",0,0,1,1,0
+2016,7,villeneuve,Cloudy 12 °C (54 °F) air temperature 21–23 °C (70–73 °F) track temperature 2.5 m/s (8.2 ft/s) wind from the southeast[4],0,0,0,0,1
+2016,8,baku,Partly cloudy 30–33 °C (86–91 °F) air temperature 39–45 °C (102–113 °F) track temperature 2.5 m/s (8.2 ft/s) wind from the southeast[4],0,0,0,0,1
+2016,9,red_bull_ring,Cloudy,0,0,0,0,1
+2016,10,silverstone,"Wet at start, dry later",0,0,1,1,0
+2016,11,hungaroring,Sunny,1,0,0,0,0
+2016,12,hockenheimring,Partially cloudy and dry,0,0,1,0,1
+2016,13,spa,Partially cloudy and dry,0,0,1,0,1
+2016,14,monza,"Sunny, warm",1,0,0,0,0
+2016,15,marina_bay,Clear 30 °C (86 °F) air temperature 34–35 °C (93–95 °F) track temperature 1.5 m/s (4.9 ft/s) wind from the east[2],1,0,0,0,0
+2016,16,sepang,Sunny 33 °C (91 °F) air temperature 49 °C (120 °F) track temperature 2.8 m/s (9.2 ft/s) wind from the west[2],1,0,0,0,0
+2016,17,suzuka,Cloudy,0,0,0,0,1
+2016,18,americas,Sunny and hot with temperatures reaching up to 84 °F (29 °C); wind speeds approaching speeds of 9.2 miles per hour (14.8 km/h)[2],1,0,0,0,0
+2016,19,rodriguez,Sunny,1,0,0,0,0
+2016,20,interlagos,Rain and 16 °C (60.8 °F),0,0,0,1,0
+2016,21,yas_marina,Sunny,1,0,0,0,0
+2017,1,albert_park,Partly cloudy 24 °C (75 °F) air temperature 31–36 °C (88–97 °F) track temperature 2 m/s (4.5 mph; 7.2 km/h) wind from the northwest[3],0,0,0,0,1
+2017,2,shanghai,"Light rain at start, drying later.",0,0,0,1,0
+2017,3,bahrain,Clear,1,0,0,0,0
+2017,4,sochi,Sunny,1,0,0,0,0
+2017,5,catalunya,Sunny,1,0,0,0,0
+2017,6,monaco,Sunny,1,0,0,0,0
+2017,7,villeneuve,Sunny and hot with temperatures reaching up to 29 °C (84 °F); wind speeds reaching 12.9 kilometres per hour (8.0 mph)[4],1,0,0,0,0
+2017,8,baku,Sunny,1,0,0,0,0
+2017,9,red_bull_ring,Partly cloudy,0,0,0,0,1
+2017,10,silverstone,Overcast,0,0,0,0,1
+2017,11,hungaroring,Sunny,1,0,0,0,0
+2017,12,spa,Partially cloudy and dry,0,0,1,0,1
+2017,13,monza,Sunny,1,0,0,0,0
+2017,14,marina_bay,"Wet at start, then drying. Air temperature: 28°C (82°F)",0,0,0,1,0
+2017,15,sepang,Cloudy,0,0,0,0,1
+2017,16,suzuka,Sunny,1,0,0,0,0
+2017,17,americas,Sunny with temperatures reaching up to 82.9 °F (28.3 °C); wind speeds approaching speeds of 13.8 miles per hour (22.2 km/h)[4],1,0,0,0,0
+2017,18,rodriguez,"Sunny, dry",1,0,1,0,0
+2017,19,interlagos,Sunny,1,0,0,0,0
+2017,20,yas_marina,Clear,1,0,0,0,0
+2018,1,albert_park,Sunny,1,0,0,0,0
+2018,2,bahrain,Clear,1,0,0,0,0
+2018,3,shanghai,Sunny,1,0,0,0,0
+2018,4,baku,Cloudy,0,0,0,0,1
+2018,5,catalunya,"Partially cloudy and dry, 16°C and cold.",0,0,0,0,1
+2018,6,monaco,Sunny,1,0,0,0,0
+2018,7,villeneuve,Temperatures reaching up to 22.7 °C (72.9 °F); with wind speeds reaching 11.1 kilometres per hour (6.9 mph)[2],0,0,0,0,0
+2018,8,ricard,"Partially cloudy, warm and dry",1,0,1,0,0
+2018,9,red_bull_ring,Sunny,1,0,0,0,0
+2018,10,silverstone,Sunny 27.0 °C (80.6 °F)[2],1,0,0,0,0
+2018,11,hockenheimring,Overcast with intermittent rain,0,0,0,1,1
+2018,12,hungaroring,Sunny,1,0,0,0,0
+2018,13,spa,Cloudy,0,0,0,0,1
+2018,14,monza,Sunny,1,0,0,0,0
+2018,15,marina_bay,Clear,1,0,0,0,0
+2018,16,sochi,Cloudy,0,0,0,0,1
+2018,17,suzuka,Partly cloudy,0,0,0,0,1
+2018,18,americas,Partly cloudy,0,0,0,0,1
+2018,19,rodriguez,Sunny,1,0,0,0,0
+2018,20,interlagos,Cloudy,0,0,0,0,1
+2018,21,yas_marina,Clear,1,0,0,0,0
+2019,1,albert_park,Sunny,1,0,0,0,0
+2019,2,bahrain,Clear,1,0,0,0,0
+2019,3,shanghai,Partly cloudy,0,0,0,0,1
+2019,4,baku,Mostly sunny,1,0,0,0,0
+2019,5,catalunya,Sunny,1,0,0,0,0
+2019,6,monaco,Overcast,0,0,0,0,1
+2019,7,villeneuve,Temperatures reaching up to 29.6 °C (85.3 °F); wind speeds negligible[2],0,0,0,0,0
+2019,8,ricard,Clear,1,0,0,0,0
+2019,9,red_bull_ring,"Sunny, 36C (97F)",1,0,0,0,0
+2019,10,silverstone,Partly cloudy,0,0,0,0,1
+2019,11,hockenheimring,"Early rain, Late clouds",0,0,0,0,1
+2019,12,hungaroring,Sunny,1,0,0,0,0
+2019,13,spa,Partly cloudy,0,0,0,0,1
+2019,14,monza,Partly cloudy,0,0,0,0,1
+2019,15,marina_bay,Slightly hazy,0,0,0,0,0
+2019,16,sochi,Partly cloudy,0,0,0,0,1
+2019,17,suzuka,Sunny,1,0,0,0,0
+2019,18,rodriguez,Partly cloudy,0,0,0,0,1
+2019,19,americas,Sunny,1,0,0,0,0
+2019,20,interlagos,Sunny,1,0,0,0,0
+2019,21,yas_marina,Clear,1,0,0,0,0
+2020,1,red_bull_ring,Sunny,1,0,0,0,0
+2020,2,red_bull_ring,Sunny,1,0,0,0,0
+2020,3,hungaroring,"Wet at start, partly cloudy",0,0,0,1,1
+2020,4,silverstone,Partly cloudy,0,0,0,0,1
+2020,5,silverstone,Sunny,1,0,0,0,0
+2020,6,catalunya,Partly cloudy,0,0,0,0,1
+2020,7,spa,Partly cloudy,0,0,0,0,1
+2020,8,monza,Sunny,1,0,0,0,0
+2020,9,mugello,Sunny,1,0,0,0,0
+2020,10,sochi,Sunny,1,0,0,0,0
+2020,11,nurburgring,"Partly cloudy, 10 °C (50 °F)",0,0,0,0,0
+2020,12,portimao,Cloudy,0,0,0,0,1
+2020,13,imola,Partly cloudy,0,0,0,0,1
+2020,14,istanbul,Overcast. Wet and drying track. Air: 11–14 °C (52–57 °F); Track: 14–17 °C (57–63 °F),0,0,0,1,0
+2020,15,bahrain,Clear,1,0,0,0,0
+2020,16,bahrain,Clear,1,0,0,0,0
+2020,17,yas_marina,Clear,1,0,0,0,0
+2021,1,bahrain,"Clear, 21 °C (70 °F)",0,0,0,0,0
+2021,2,imola,"Wet at start, drying during race, 9 °C (48 °F)",0,0,0,1,0
+2021,3,portimao,Light cloud,0,0,0,0,0
+2021,4,catalunya,Cloudy,0,0,0,0,1
+2021,5,monaco,Sunny,1,0,0,0,0
+2021,6,baku,Sunny,1,0,0,0,0
+2021,7,ricard,Windy and partly cloudy. Ambient temperature: 24 to 27 °C (75 to 81 °F); Surface temperature: 33 to 38 °C (91 to 100 °F),0,0,0,0,0
+2021,8,red_bull_ring,Partly cloudy. Ambient temperature: 25 to 29 °C (77 to 84 °F); Surface temperature: 48 to 56 °C (118 to 133 °F),0,0,0,0,0
+2021,9,red_bull_ring,Partly cloudy,0,0,0,0,1
+2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0
+2021,11,hungaroring,Rain and sunny. Ambient: 26 to 29 °C (79 to 84 °F); Surface: 31 to 52 °C (88 to 126 °F).[3],0,0,0,1,0
+2021,12,spa,Wet; persistent rain,0,0,0,1,0
+2021,13,zandvoort,Sunny,1,0,0,0,0
+2021,14,monza,Sunny,1,0,0,0,0
+2021,15,sochi,Cloudy and rainy,0,0,0,1,1
+2021,16,istanbul,Overcast with intermittent rain,0,0,0,1,1
+2021,17,americas,Sunny,1,0,0,0,0
+2021,18,rodriguez,Sunny,1,0,0,0,0
+2021,19,interlagos,Sunny,1,0,0,0,0
+2021,20,losail,Clear,1,0,0,0,0
+2021,21,jeddah,Clear,1,0,0,0,0
+2021,22,yas_marina,Clear,1,0,0,0,0
+2022,1,bahrain,Clear,1,0,0,0,0
+2022,2,jeddah,Clear,1,0,0,0,0
+2022,3,albert_park,Partly cloudy,0,0,0,0,1
+2022,4,imola,Cloudy in a wet and drying track[2],0,0,0,1,1
+2022,5,miami,"Warm, partly cloudy",0,0,0,0,1
+2022,6,catalunya,Sunny,1,0,0,0,0
+2022,7,monaco,Rain and partly cloudy in wet-and-drying track conditions,0,0,0,1,1
+2022,8,baku,Sunny,1,0,0,0,0
+2022,9,villeneuve,Sunny,1,0,0,0,0
+2022,10,silverstone,Partly cloudy,0,0,0,0,1
+2022,11,red_bull_ring,Partly cloudy,0,0,0,0,1
+2022,12,ricard,Sunny,1,0,0,0,0
+2022,13,hungaroring,"Overcast with drizzle throughout, light rain at the end",0,0,0,1,1
+2022,14,spa,Sunny,1,0,0,0,0
+2022,15,zandvoort,Partly cloudy,0,0,0,0,1
+2022,16,monza,Sunny,1,0,0,0,0
+2022,17,marina_bay,Partly cloudy in a wet and drying track,0,0,0,1,1
+2022,18,suzuka,Rain,0,0,0,1,0
+2022,19,americas,Partly cloudy,0,0,0,0,1
+2022,20,rodriguez,Partly cloudy,0,0,0,0,1
+2022,21,interlagos,Cloudy,0,0,0,0,1
+2022,22,yas_marina,Clear,1,0,0,0,0
+2023,1,bahrain,Clear,1,0,0,0,0
+2023,2,jeddah,Clear,1,0,0,0,0
+2023,3,albert_park,Sunny,1,0,0,0,0
+2023,4,baku,Partly cloudy,0,0,0,0,1
+2023,5,miami,Partly cloudy,0,0,0,0,1
+2023,6,monaco,"Cloudy, with some rain intervals",0,0,0,1,0
+2023,7,catalunya,Cloudy,0,0,0,0,1
+2023,8,villeneuve,Partly cloudy,0,0,0,0,1
+2023,9,red_bull_ring,Cloudy,0,0,0,0,1
+2023,10,silverstone,Partly cloudy,0,0,0,0,1
+2023,11,hungaroring,Sunny,1,0,0,0,0
+2023,12,spa,"Partly cloudy, with a rain interval",0,0,0,1,0
+2023,13,zandvoort,Cloudy and rainy,0,0,0,1,1
+2023,14,monza,Sunny,1,0,0,0,0
+2023,15,marina_bay,Clear,1,0,0,0,0
+2023,16,suzuka,Sunny,1,0,0,0,0
+2023,17,losail,Clear,1,0,0,0,0
+2023,18,americas,Sunny,1,0,0,0,0
+2023,19,rodriguez,Sunny,1,0,0,0,0
+2023,20,interlagos,Partly cloudy,0,0,0,0,1
 2023,21,vegas,not found,0,0,0,0,0
 2023,22,yas_marina,not found,0,0,0,0,0
