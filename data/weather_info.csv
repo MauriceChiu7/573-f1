@@ -182,5 +182,5 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2023,18,americas,Sunny,1,0,0,0,0
 2023,19,rodriguez,Sunny,1,0,0,0,0
 2023,20,interlagos,Partly cloudy,0,0,0,0,1
-2023,21,vegas,not found,0,0,0,0,0
-2023,22,yas_marina,not found,0,0,0,0,0
+2023,21,vegas,Clear,1,0,0,0,0
+2023,22,yas_marina,Clear,1,0,0,0,0
