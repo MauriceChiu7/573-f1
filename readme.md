@@ -1,11 +1,15 @@
 # Predicting F1 Champion
 ## CS 573 Data Mining Final Project
+Presented by:\
+Maurice Chiu, Jiangqiong Liu, Mayesha Monjur, Nishtha Aggarwal, Daniel Castro
 
-# Data Collection
+## Data Collection
 Run all cells in the `./data_collection.ipynb`.
 
-It should produce `./data/final_df.csv`.
+It should produce `./data/final_df.csv` and `./data/preprocessed_df.csv`.
 
-The last cell would also merge `./more_db/circuit_info.csv`, `./more_db/constructor_names.csv`, `./more_db/driver_names.csv`, and `./more_db/start_times.csv` into `./data/final_df.csv`.
+## Models
+You can find our implementations in `./f1_models.ipynb`.
 
-`/data/final_df.csv` should contain all of the data you need.
+## Hyperparameter Tuning
+You can find our code for tuning hyperparameters in `./hyperparameters.ipynb`.
