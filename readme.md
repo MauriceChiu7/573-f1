@@ -13,3 +13,6 @@ You can find our implementations in `./f1_models.ipynb`.
 
 ## Hyperparameter Tuning
 You can find our code for tuning hyperparameters in `./hyperparameters.ipynb`.
+
+## Exploratory Analysis
+You can find our code for exploratory analysis in `./exploratoryDataAnalysis.ipynb`.
