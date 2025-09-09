@@ -7,7 +7,7 @@ Maurice Chiu, Jiangqiong Liu, Mayesha Monjur, Nishtha Aggarwal, Daniel Castro
 Run all cells in the `./data_collection.ipynb`.
 
 It should produce `./data/final_df.csv` and `./data/preprocessed_df.csv`.
-
+ 
 ## Models
 You can find our implementations in `./f1_models.ipynb`.
 
